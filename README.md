@@ -23,12 +23,13 @@ A modern Todo application built with Next.js, Supabase for backend services, Tan
 
 ### Phase 2: Database Schema Design
 
-- [ ] Design Todo table schema in Supabase
+- [x] Design Todo table schema in Supabase
   - Fields: id, title, description, is_completed, created_at
+- [x] Created Todo interface based on table fields
 
 ### Phase 3: Core Todo Functionality with TanStack Query
 
-- [ ] Set up TanStack Query client and provider
+- [x] Set up TanStack Query client and provider
 - [ ] Implement CRUD operations for todos:
   - [ ] Create todo items (with TanStack Query mutations)
   - [ ] Read todo items (with TanStack Query queries)
