@@ -19,7 +19,7 @@ A modern Todo application built with Next.js, Supabase for backend services, Tan
 - [x] Set up Tailwind CSS
 - [x] Configure Supabase client
 - [x] Set up environment variables
-- [ ] Install and set up TanStack Query
+- [x] Install and set up TanStack Query
 
 ### Phase 2: Database Schema Design
 
